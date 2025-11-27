@@ -1,0 +1,13 @@
+#$%REGLAS#$%
+
+1. clikea el script que se llama solorun, te aparecera un recuadro que te preguntara-
+-si quires instalar python tu le daras "install"
+2. luego se te abrira una pestaña donde deberas instalar python-
+- cierrala y ahora si al darle al script de solorun.py te aparecera una flechita- 
+-arriba a la derecha, dale alli y sigue los pasos
+4. ya es toda we
+5. puedes interactar con la carpeta server sin ningun problema
+6. puedes meter y sacar manualmente los mundos desde la carpeta server o desde el programa
+7. si compartes tu cuenta de tailscale hasta 100 personas pueden usarla
+
+el video es un poco viejo pero puede tener informacion util ;)
